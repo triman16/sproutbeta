@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.19.2",
+    "xlsx": "^0.18.5"
+  },
+  "name": "sprout-beta",
+  "version": "1.0.0",
+  "description": "sprout helps students to access green opportunites worldwide and learn about sustainability and the green sector.",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triman16/sproutbeta.git"
+  },
+  "author": "Triman Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triman16/sproutbeta/issues"
+  },
+  "homepage": "https://github.com/triman16/sproutbeta#readme"
+}
